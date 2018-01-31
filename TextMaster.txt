@@ -1,4 +1,3 @@
 Bonjour Git!
 Alors tu dois m'apprendre le versionning?
 Why not...
-;-)
