@@ -1,0 +1,1 @@
+Il faut faire pousser des branches développement et seulement les rattacher au tronc (master) quand cela est validé.
